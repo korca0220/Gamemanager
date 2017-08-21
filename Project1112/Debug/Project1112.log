@@ -1,0 +1,12 @@
+﻿  russian.cpp
+d:\storage\프로그래밍\c++ oop project\gamemanager project\project1112\russian.cpp(102): warning C4244: '인수': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\storage\프로그래밍\c++ oop project\gamemanager project\project1112\russian.cpp(149): warning C4244: '인수': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\storage\프로그래밍\c++ oop project\gamemanager project\project1112\russian.cpp(213): warning C4244: '인수': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\storage\프로그래밍\c++ oop project\gamemanager project\project1112\russian.cpp(289): warning C4244: '인수': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  lotto.cpp
+  gawi.cpp
+  firstmenu.cpp
+  코드를 생성하고 있습니다...
+  Project1112.vcxproj -> D:\Storage\프로그래밍\C++ OOP Project\GameManager Project\Debug\GameManager.exe
+  Project1112.vcxproj -> D:\Storage\프로그래밍\C++ OOP Project\GameManager Project\Debug\GameManager.pdb (Partial PDB)
